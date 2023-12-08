@@ -39,8 +39,6 @@ public partial class ListPage : ContentPage
         }
     }
 
-
-
     protected override async void OnAppearing()
     {
         base.OnAppearing();
